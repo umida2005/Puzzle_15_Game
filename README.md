@@ -2,12 +2,6 @@
 
 The 15 Puzzle is a classic sliding number game where the player’s goal is to arrange the numbers from 1 to 15 in order using an empty tile space.
 
-<p align="center">
-  <img src="app/src/main/java/com/example/puzzle_15_game/image/img1.jpg" width="200" height="300" style="margin: 5px;" />
-  <img src="app/src/main/java/com/example/puzzle_15_game/image/img2.jpg" width="200" height="300" style="margin: 5px;" />
-  <img src="app/src/main/java/com/example/puzzle_15_game/image/img3.jpg" width="200" height="300" style="margin: 5px;" />
-  <img src="app/src/main/java/com/example/puzzle_15_game/image/img4.jpg" width="200" height="300" style="margin: 5px;" />
-</p>
 
 
 ## 📌 Key Features
@@ -28,6 +22,15 @@ The 15 Puzzle is a classic sliding number game where the player’s goal is to a
 | Multi-Activity     | Separate screens for navigation    |
 | AlertDialog        | User-friendly popup dialogs        |
 | GridLayout         | 4x4 tile layout for puzzle tiles   |
+
+
+
+<p align="center">
+  <img src="app/src/main/java/com/example/puzzle_15_game/image/img1.jpg" width="200" height="300" style="margin: 5px;" />
+  <img src="app/src/main/java/com/example/puzzle_15_game/image/img2.jpg" width="200" height="300" style="margin: 5px;" />
+  <img src="app/src/main/java/com/example/puzzle_15_game/image/img3.jpg" width="200" height="300" style="margin: 5px;" />
+  <img src="app/src/main/java/com/example/puzzle_15_game/image/img4.jpg" width="200" height="300" style="margin: 5px;" />
+</p>
 
 ## 🚀 How It Works
 
